@@ -1,3 +1,4 @@
+' Выцепляем число скважин из GAP
 WellNum = DoGet("GAP.MOD[{PROD}].Well.Count")
 j = 1
 
